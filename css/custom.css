@@ -36,7 +36,7 @@ font-family: 'Lato', cursive;
 /*Jumbotron stuff~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_*/
 .jumbotron{
  text-align: center;
- background: url('/images/301project1.jpeg') no-repeat center center;
+ background: url('HELLO, I'M JEENOimages/301project1.jpeg') no-repeat center center;
 
  background-position: top;
 }
