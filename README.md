@@ -1,2 +1,3 @@
 # dismysite
-My personal website
+My personal website: https://xjeebo.github.io/dismysite/
+Come check it out!
