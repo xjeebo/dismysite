@@ -26,7 +26,7 @@ font-family: 'Lato', cursive;
 .navbar{
     overflow: hidden;
     background-color: #333;
-    position: fixed; /* Set the navbar to fixed position */
+    position:  absolute;/* was fixed; Set the navbar to fixed position */
     top: 0; /* Position the navbar at the top of the page */
     width: 100%; /* Full width */
 }
@@ -36,8 +36,7 @@ font-family: 'Lato', cursive;
 /*Jumbotron stuff~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_~_*/
 .jumbotron{
  text-align: center;
- background: url('images/301project1.jpeg') no-repeat center center;
-
+ background: url('images/301project1.jpeg'); no-repeat center center;
  background-position: top;
 }
 
